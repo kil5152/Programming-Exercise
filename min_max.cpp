@@ -1,4 +1,4 @@
-// Find the max and min of two numbers without using comparative operators
+// Find the max and min of two numbers without using comparision  operators
 
 #include <iostream>
 
